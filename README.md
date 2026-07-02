@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi 👋, I'm Muhammad Umair
 
-<!--
-**umairkhan70140/umairkhan70140** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 MERN Stack Developer
 
-Here are some ideas to get you started:
+I'm a passionate Software Engineering student focused on building modern, responsive, and user-friendly web applications using the MERN Stack.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tech Stack
+
+* React.js
+* JavaScript (ES6+)
+* Node.js
+* Express.js
+* MongoDB
+* Tailwind CSS
+* HTML5
+* CSS3
+* Git & GitHub
+
+### 📂 Featured Projects
+
+🚗 **Car Rental Website**
+Modern car rental platform built with React.
+
+🛒 **Grocery Shopping Website**
+Responsive grocery shopping application with a clean UI.
+
+🛍️ **E-Commerce Website**
+Modern online shopping application built using React and Vite.
+
+### 🌱 Currently Learning
+
+* Advanced MERN Stack
+* REST APIs
+* Authentication & Authorization
+* Deployment with Vercel
+
+### 📫 Contact
+
+* **Email:** [umairkhan70140@gmail.com](mailto:umairkhan70140@gmail.com)
+* **GitHub:** https://github.com/umairkhan70140
+
+---
+
+⭐ Always learning and building new projects.
